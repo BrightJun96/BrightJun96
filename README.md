@@ -3,11 +3,7 @@
 - Mail | cjfwns966@gmail.com
 - Career | 신입
 
-### Stack
-- html
-- css
-- javascript
-- react
+
 
 
 
